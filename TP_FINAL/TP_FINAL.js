@@ -1,6 +1,7 @@
 //Comision 3 
 //Lautaro Maidana 
-//Faustino Ugirna Natale
+//https://youtu.be/TNELOpiWr20
+//Faustino Ugrina Natale
 //https://youtu.be/76haqW_Xz6k  
 
 let estado;
