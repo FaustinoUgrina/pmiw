@@ -1,3 +1,7 @@
+//Lautaro Maidana
+//Faustino Ugrina Natale
+//https://youtu.be/Mbuo3YCS0dM (Faustino)
+//(Lautaro)
 let objJuego;
 let pantallaInicio;
 let personajeImg; 
@@ -13,7 +17,7 @@ function preload() {
   monedaImg = loadImage("data/moneda.png");
   monedaSonido = loadSound('data/monedasonido.mp3');
   crashSonido = loadSound('data/crash.mp3');
-  boton = loadSound('data/boton.mp3'); // Cargamos el sonido del botón
+  boton = loadSound('data/boton.mp3'); 
 }
 
 function setup() {
