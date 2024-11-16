@@ -1,7 +1,7 @@
 //Lautaro Maidana
 //Faustino Ugrina Natale
 //https://youtu.be/Mbuo3YCS0dM (Faustino)
-//(Lautaro)
+//https://youtu.be/TZvUINALADM(Lautaro)
 let objJuego;
 let pantallaInicio;
 let personajeImg; 
